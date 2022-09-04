@@ -40,4 +40,7 @@ from the package authors, and more.
 
 ## Additional information 2
 
+han qyuh digh 
+
+ 
 TODO: Tell users more about the package: where to find more information,
